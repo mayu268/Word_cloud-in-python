@@ -10,10 +10,10 @@ This helps in:
 <a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"> IMDB Dataset of 50K Movie Reviews </a>
 
 ## Questions
-1.Most Frequent Words → Which words occur most often in movie reviews?
-2.Sentiment Insights → Are the frequent words more positive or negative in nature?
-3.Review Patterns → Do certain words appear repeatedly in positive vs. negative reviews?
-4.Data Cleaning Impact → How removing stopwords and punctuation affects the clarity of insights.
+ 1.Most Frequent Words → Which words occur most often in movie reviews?
+ 2.Sentiment Insights → Are the frequent words more positive or negative in nature?
+ 3.Review Patterns → Do certain words appear repeatedly in positive vs. negative reviews?
+ 4.Data Cleaning Impact → How removing stopwords and punctuation affects the clarity of insights.
 
 ## Process
 1.Loading the Dataset
