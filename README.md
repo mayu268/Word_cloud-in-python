@@ -16,16 +16,16 @@ This helps in:
   * Data Cleaning Impact → How removing stopwords and punctuation affects the clarity of insights.
 
 ## Process
-  * Loading the Dataset
-  * Understanding the Dataset
-    The dataset contains two columns:
-    review: Contains the movie review text
-    sentiment: It shows whether the review is positive or negative
-  * Cleaning the Text Data
-    Before generating the word cloud, we need to clean the text data which involves:
-    1. Removing punctuation
-    2. Converting text to lowercase
-    3. Removing stopwords i.e common words like "the", "is", "and"
+  * Loading the Dataset:
+  * Understanding the Dataset:
+      The dataset contains two columns:
+      review: Contains the movie review text
+      sentiment: It shows whether the review is positive or negative
+  * Cleaning the Text Data:
+     Before generating the word cloud, we need to clean the text data which involves:
+       1. Removing punctuation
+       2. Converting text to lowercase
+       3. Removing stopwords i.e common words like "the", "is", "and"
   * Generating the Word Cloud
 
 ## Project Insights
